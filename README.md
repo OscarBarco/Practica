@@ -27,3 +27,5 @@
 ## Introduction
 
 Este es unproyecto en ALURA, pagina web qeu ayuda a colocar un numero secreto
+
+sistema de registro 2
